@@ -5,7 +5,7 @@ public class PracticaGH1 {
 
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("prueba linea gui prueba dos");
+        System.out.println("prueba linea NUEVA 2 gui prueba dos");
     }
     
 }
